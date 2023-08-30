@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=munsman" alt="https://github.com/munsman" />
 </div>
 
-## Whoami
+## Who am I
 
 I am a Computer Science Student from Innsbruck ⛰️
 
@@ -30,7 +30,7 @@ This mean file-watching for latex, keyboard controls like vim and easy customiza
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 
-## Developent Setup
+## Development Setup
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
