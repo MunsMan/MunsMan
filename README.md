@@ -8,7 +8,11 @@
 <div>
     <img align="left" src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white'/> A tool for everything, especially the web
 </div>
-<img align="left" src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/> For Numbers and Machine Learning
-<img align="left" src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white'/> When Performance matters
+<div>
+    <img align="left" src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/> For Numbers and Machine Learning
+</div>
+<div>
+    <img align="left" src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white'/> When Performance matters
+</div>
 
 <!-- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) -->
